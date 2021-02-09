@@ -1,7 +1,7 @@
 # Bem vindo ao Front Mobile
 
-Trata-se de um conjunto de componentes que serão usados para aplicativos moveis 
-Contem:
+Trata-se de um conjunto de componentes que serão usados para aplicativos moveis<br> 
+Contendo:
 
  - Login
  - Preload
