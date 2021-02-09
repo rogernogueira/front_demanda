@@ -11,13 +11,17 @@ Contem:
 # Linguagem
 
 Totalmente desenvolvido em <b>React-Native </b>
+## Ambiente
+            choco install -y nodejs.install openjdk8	
 
 ## Instalação do ambiente e dependências 
 Usar esses comandos dentro da pasta do projeto
 
 	    react-native init
 	    npm -i 
-	
+
+	   
+
 
 ## Executar o sistema 
 
